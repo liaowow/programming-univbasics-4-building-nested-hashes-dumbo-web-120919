@@ -1,6 +1,6 @@
 def base_hash
-	bade_hash = {
-	  
+	base_hash = {
+	  :railroads => {}
 	}
 end
 
